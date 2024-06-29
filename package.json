@@ -1,0 +1,16 @@
+{
+  "name": "practiceapigithub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc && tsc-alias"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tsc-alias": "^1.8.10",
+    "typescript": "^5.5.2"
+  }
+}
